@@ -1,4 +1,4 @@
-package com.apporchid.hive.qa;
+package com.apporchid.hive.qaFiles;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

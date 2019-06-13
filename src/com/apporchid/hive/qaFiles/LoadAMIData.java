@@ -1,4 +1,4 @@
-package com.apporchid.hive.qa;
+package com.apporchid.hive.qaFiles;
 
 import java.io.IOException;
 import java.nio.charset.Charset;

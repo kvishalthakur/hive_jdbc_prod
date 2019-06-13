@@ -1,4 +1,4 @@
-package com.apporchid.hive.qa;
+package com.apporchid.hive.qaFiles;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
